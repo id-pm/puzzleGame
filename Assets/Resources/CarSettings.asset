@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a114646551174d8409d13be2c7a58df2, type: 3}
+  m_Name: CarSettings
+  m_EditorClassIdentifier: 
+  exitOffset: -40
+  backUpDistance: 4
+  crashPunchPower: 0.3
+  driveDistance: 100
+  EngineClip: {fileID: 8300000, guid: 7aab0bf5a5b013a4d856e5b2e29b9e39, type: 3}
+  DriftClip: {fileID: 8300000, guid: dd8e9a0389ff7ce45900b5ae7382bb0a, type: 3}
+  CrashClip: {fileID: 8300000, guid: 7ad88b1cf77ce7947a2c3ad51fd1572b, type: 3}
+  Speed: 15
+  DurationRotate: 0.3
+  DurationCompress: 0.17
+  DurationDecompress: 0.18
+  CompressionFactor: 0.56
+  DriftEffect: 18
+  driftAngle: 40.3
+  rollAngle: 35
+  rotateDuration: 0.23
+  colorMaterialPairs:
+  - color: 0
+    material: {fileID: 2100000, guid: d3047c253fbac0a478d2867fa619db1f, type: 2}
+  - color: 1
+    material: {fileID: 2100000, guid: fdf2f8c4770f2f94a89ad7c0081b991a, type: 2}
+  - color: 2
+    material: {fileID: 2100000, guid: 87490cfd7858adc489630a89b860d9a5, type: 2}
+  - color: 3
+    material: {fileID: 2100000, guid: 6f12518d2e24a6547be151a23026050e, type: 2}
+  - color: 4
+    material: {fileID: 2100000, guid: dcfdb53952135fc4992ae72ed0048343, type: 2}
+  - color: 5
+    material: {fileID: 2100000, guid: b6b27982d87269f4db7e85fe17c96038, type: 2}
+  _spotsController: {fileID: 0}
+  _parkingZone: {fileID: 0}
+  smokes:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  smokeObject: {fileID: 0}
