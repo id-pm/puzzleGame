@@ -2,6 +2,17 @@
 
 Queue Match Puzzle Game is an engaging Android puzzle game where you manage chaotic parking to clear a queue of waiting guests. Use strategy and special abilities to match cars by color and send all waiting figures on their way.
 
+## 🎮 Gameplay Preview
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/77d301ca-70b3-4038-ad87-6bc26d1642cb"
+         width="800"
+         controls
+         autoplay
+         loop
+         muted>
+  </video>
+</div>
+
 ## 🔍 Project Overview
 - **Platform:** Android
 - **Engine:** Unity (2021.3.30f1)
